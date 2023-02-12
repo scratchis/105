@@ -1,0 +1,27 @@
+h1{
+    font-size: 30;
+    font-weight: 50;
+}
+body{
+    background-color: cyan;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#camera{
+    border-radius: 10;
+    width: 500;
+    height: 400;
+}
+img{
+    border-radius: 10;
+    width: 500;
+    height: 400;
+    box-shadow:0 6px 8px 0 black(2,2,2,0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
